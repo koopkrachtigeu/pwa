@@ -2,9 +2,9 @@
   "id": "com.koopkrachtigeu.app",
   "name": "KookKrachtig App",
   "short_name": "KoopKrachig",
-  "description": "Het KoopKrachtig platform als app op jouw device."
+  "description": "Het KoopKrachtig platform als app op jouw device.",
   "categories": ["shopping"],
-  "lang": "nl-NL"
+  "lang": "nl-NL",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
