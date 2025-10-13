@@ -1,18 +1,23 @@
 {
+  "id": "com.koopkrachtigeu.app",
   "name": "KookKrachtig App",
   "short_name": "KoopKrachig",
+  "description": "Het KoopKrachtig platform als app op jouw device."
+  "categories": ["shopping"],
+  "lang": "nl-NL"
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d47a1",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "https://voorbeeld.com/icon-192.png",
+      "src": "https://koopkrachtigeu.github.io/pwa/favicon/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://voorbeeld.com/icon-512.png",
+      "src": "https://koopkrachtigeu.github.io/pwa/favicon/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
