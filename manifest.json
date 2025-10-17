@@ -7,8 +7,8 @@
   "lang": "nl-NL",
   "start_url": "/",
   "display": "fullscreen",
-  "background_color": "#ffffff",
-  "theme_color": "#539AA0",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
   "orientation": "portrait",
   "icons": [
     {
